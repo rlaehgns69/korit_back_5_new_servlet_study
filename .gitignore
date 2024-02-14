@@ -51,3 +51,8 @@ build
 
 insert_and_select/src/main/java/com/study/insert_and_select/config/DBConfig.java
 product/src/main/java/com/study/product/config/DBConfig.java
+# .gitignore 파일 내용
+data_array/src/main/webapp/
+insert_and_select/src/main/webapp/
+korit_back_5_servlet_study/src/main/webapp/
+product/src/main/webapp/
